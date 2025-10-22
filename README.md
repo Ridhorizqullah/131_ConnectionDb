@@ -20,3 +20,13 @@ Menambahkan data mahasiswa baru ke dalam tabel `biodata`.
 Berikut tampilan hasil data setelah menambahkan ID baru:
 
 ![Data Updated](https://github.com/user-attachments/assets/8ca0fdfe-f0a3-4707-a699-e1945e01b424)
+
+### 🟡 PUT - Mengupdate Data
+Berikut tampilan hasil data setelah di update
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 095535" src="https://github.com/user-attachments/assets/91f45d5c-89d4-43b5-9463-6fc730f2f1c1" />
+
+
+### 🔴 DELETE - Menghapus Data
+Berikut tampilan hasil data setelah di delete
+<img width="1920" height="1080" alt="Screenshot 2025-10-22 095559" src="https://github.com/user-attachments/assets/a7929095-bec5-44df-bc70-be5f1420636b" />
+
